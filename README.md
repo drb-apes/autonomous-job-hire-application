@@ -31,3 +31,11 @@ The platform is structured into three primary technical layers:
 🔒 Security & Compliance
 * Data Protection: End-to-end PII encryption at rest with strict role-based access control (RBAC) separating sensitive records from machine learning feature stores.
  * Auditing & Fairness: Cryptographic random seed logging for every daily lottery execution alongside continuous disparate impact and bias monitoring to guarantee compliance.
+
+## License
+
+No license.
+
+All rights reserved.
+
+No permission is granted to use, copy, modify, distribute, or create derivative works from this repository or its contents without prior written authorization from the rights holder.
